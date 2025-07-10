@@ -6,7 +6,7 @@ COMPANY: CODTECH IT SOLUTIONS
 
 NAME: HIMANI GUSAIN INTERN
 
-ID: CTSOD69
+ID: CITSOD69
 
 DOMAIN: UI/UX DESIGN
 
@@ -21,6 +21,6 @@ I have added more information like watch on any device ,download your shows to w
 
 OUTPUT 
 
-![WhatsApp Image 2025-07-11 at 1 41 25 AM (1)](https://github.com/user-attachments/assets/df1060bc-ff86-40f5-aef9-75b0cead05d0)
+(https://github.com/user-attachments/assets/df1060bc-ff86-40f5-aef9-75b0cead05d0)
 
 
