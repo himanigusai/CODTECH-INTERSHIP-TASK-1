@@ -21,6 +21,7 @@ I have added more information like watch on any device ,download your shows to w
 
 OUTPUT 
 
-(https://github.com/user-attachments/assets/df1060bc-ff86-40f5-aef9-75b0cead05d0)
+
+![IMAGE (2)](https://github.com/user-attachments/assets/c06cf775-a6d8-46c4-a8ee-f79f80f158f1)
 
 
