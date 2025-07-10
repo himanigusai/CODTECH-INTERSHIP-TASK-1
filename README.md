@@ -17,6 +17,7 @@ MENTOR: NEELA SANTHOSH
 DESCRIPTION OF TASK1:
 
 For Task 1 of my UI/UX internship at CodTech IT Solutions, I redesigned the landing page of Netflixn using Figma,focusing on clarity, aesthetics, and usability. My goal was to create a visually appealing and user-friendly hero section.
+I have added more information like watch on any device ,download your shows to watch offline ,personalized profiles for all family member and pricing plan.
 
 OUTPUT
 
